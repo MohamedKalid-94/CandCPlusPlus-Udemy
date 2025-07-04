@@ -1,2 +1,4 @@
 # CPlusPlus-Udemy
-Learning C++ from Scratch 🚀 | Udemy Course Practice Codes  This repository contains all my C++ practice programs, exercises, and mini-projects completed while attending a C++ Udemy course.  I'm using this space to track my coding progress, improve my C++ fundamentals, and build good coding habits by practicing version control with GitHub.
+
+This repository contains my C++ programming journey from a 54-topic Udemy course.
+So far, I have completed 4 topics and uploaded all related exercises. This log will be updated daily as I progress.
