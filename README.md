@@ -24,3 +24,8 @@ This repository contains all my exercises, programs, and practice tasks from a *
 | 07-July-2025 | Pointer to Structure                    |
 
 **✔️ 4/54 Topics Completed — More coming soon!**
+
+🔗 Connect with Me 
+GitHub: @MohamedKalid-94
+LinkedIn: www.linkedin.com/in/mohamed-kalid-4618921a7
+Email: kalidmohamed1046@gmail.com
